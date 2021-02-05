@@ -1,2 +1,2 @@
 # SorteioApp
-Priemiro projeto em Kotlin
+Primeiro projeto em Kotlin
